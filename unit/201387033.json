@@ -1,0 +1,34 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "2023927809": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": 201387033, 
+            "p_trigger_id": null, 
+            "trigger_id": 2023927809, 
+            "trigger_name": "The_new_trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    2023927809, 
+                    "The_new_trigger"
+                ]
+            ], 
+            "key": 201387033, 
+            "name": "201387033"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

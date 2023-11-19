@@ -1,0 +1,45 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1062768643": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 10627686430007, 
+                    "enable": true, 
+                    "event_type": "ABILITY_PS_START"
+                }
+            ], 
+            "group_id": 201368847, 
+            "p_trigger_id": null, 
+            "trigger_id": 1062768643, 
+            "trigger_name": "Ability Precast Starts", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1062768643, 
+                    "Ability Precast Starts"
+                ]
+            ], 
+            "key": 201368847, 
+            "name": "201368847"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "BOOLEAN": {}, 
+        "PROJECTILE_ENTITY": {}, 
+        "UNIT_ENTITY": {}
+    }, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

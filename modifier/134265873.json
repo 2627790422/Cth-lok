@@ -1,0 +1,191 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "198189060": {
+            "action": [
+                {
+                    "action_type": "UNREG_TRIGGER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100178, 
+                            "args_list": [
+                                [
+                                    "DYNAMIC_TRIGGER_INSTANCE", 
+                                    "\u514d\u63a7", 
+                                    "actor"
+                                ], 
+                                null
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1981890600005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1981890600002, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 134265873, 
+            "p_trigger_id": null, 
+            "trigger_id": 198189060, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
+            "valid": true
+        }, 
+        "466464771": {
+            "action": [
+                {
+                    "action_type": "PREVENT_OBTAIN_MODIFIER", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 4664647710008, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [], 
+                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u63a7\u5236"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "PROJECTILE_HAS_TAG", 
+                    "element_id": 4664647710005, 
+                    "enable": true
+                }
+            ], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100129, 
+                            "args_list": [
+                                "ET_MODIFIER_GET_BEFORE_CREATE"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 4664647710002, 
+                    "enable": true, 
+                    "event_type": "GLOBAL_MODIFIER_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "is_conf": true, 
+            "p_trigger_id": 645177345, 
+            "sub_trigger_owner_set_var_action": {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100178, 
+                        "args_list": [
+                            [
+                                "DYNAMIC_TRIGGER_INSTANCE", 
+                                "\u514d\u63a7", 
+                                "actor"
+                            ], 
+                            null
+                        ], 
+                        "sub_type": "VARIABLE"
+                    }, 
+                    {
+                        "arg_type": 100178, 
+                        "args_list": [
+                            {
+                                "arg_type": 100069, 
+                                "args_list": [
+                                    466464771
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "REG_MODIFIER_TRIGGER"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 645177345450004, 
+                "enable": true
+            }, 
+            "trigger_id": 466464771, 
+            "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
+            "valid": true
+        }, 
+        "645177345": {
+            "action": [
+                466464771
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 6451773450002, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134265873, 
+            "p_trigger_id": null, 
+            "trigger_id": 645177345, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        [
+            466464771, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    198189060, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    645177345, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134265873, 
+            "name": "134265873"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "DYNAMIC_TRIGGER_INSTANCE": {
+            "\u514d\u63a7": 0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "\u514d\u63a7", 
+            "(\u514d\u63a7)"
+        ]
+    ], 
+    "variable_length_dict": {
+        "\u514d\u63a7": 0
+    }
+}

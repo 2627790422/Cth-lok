@@ -1,0 +1,100 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1289887746": {
+            "action": [
+                {
+                    "action_type": "DELETE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "MODIFIER_RELEASER"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "timer"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_NEW_TIMER_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 12898877460036, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "DELETE_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_RELEASER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 12898877460029, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 12898877460013, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 201363810, 
+            "p_trigger_id": null, 
+            "trigger_id": 1289887746, 
+            "trigger_name": "The_new_trigger__2", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1289887746, 
+                    "The_new_trigger__2"
+                ]
+            ], 
+            "key": 201363810, 
+            "name": "201363810"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "DYNAMIC_TRIGGER_INSTANCE": {
+            "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": 0
+        }, 
+        "FLOAT": {
+            "\u79fb\u901f": 0.0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "\u79fb\u901f", 
+            "(\u79fb\u901f)"
+        ], 
+        [
+            "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668", 
+            "(\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668)"
+        ]
+    ], 
+    "variable_length_dict": {
+        "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": 0, 
+        "\u79fb\u901f": 0
+    }
+}

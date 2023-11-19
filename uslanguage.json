@@ -1,0 +1,26 @@
+{
+    "$code_camp_referee": {
+        "key": "$code_camp_referee", 
+        "value": "Observer"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}

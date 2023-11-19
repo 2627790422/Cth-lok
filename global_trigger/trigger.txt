@@ -1,0 +1,210 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "+pY-gNLOEe2RyjDQQuUV9u": 0, 
+        "33CKbnicEe6gWlDWPMjbAe": 20, 
+        "35iVD4OCEe6iX7xu4mU-3l": 50, 
+        "40gMAHhfEe6g5VDWPMjbAZ": 22, 
+        "9rUX33iJEe636VDWPMjbAW": 23, 
+        "9riaT3iJEe64jVDWPMjbAe": 24, 
+        "FO9QoYb9Ee6Wu7xu4mU-3s": 46, 
+        "G1HTHn-LEe6hLFDWPMjbAS": 28, 
+        "H2M-sIb9Ee6jHrxu4mU-3i": 47, 
+        "KPrYgIb9Ee68Vrxu4mU-3i": 48, 
+        "Lxirr3iKEe6valDWPMjbAS": 8, 
+        "LxwuHniKEe6AAFDWPMjbAW": 9, 
+        "MMlxIYb9Ee6TXLxu4mU-3p": 49, 
+        "Ob3SAHiMEe6+tVDWPMjbAS": 25, 
+        "OkeRQIUKEe6sG2wkCDI-ua": 45, 
+        "PLr4QMSZEe2qyjDQQuUV9s": 43, 
+        "R2bHcIb9Ee6xHrxu4mU-3k": 31, 
+        "UCsKsIb9Ee6LlLxu4mU-3s": 55, 
+        "Uin8HoZGEe6o3bxu4mU-3l": 54, 
+        "VkpFoYb9Ee6Y07xu4mU-3v": 56, 
+        "VwMycH8HEe6VeZiP4GH3wE": 6, 
+        "ZhdBz8OfEe2-DjDQQuUV9l": 7, 
+        "aPHinob7Ee6BvLxu4mU-3o": 52, 
+        "bRLLsMLeEe2oWDDQQuUV9l": 1, 
+        "bl9-gIOHEe6gkbxu4mU-3k": 51, 
+        "cIOZUYb7Ee6iY7xu4mU-3l": 53, 
+        "cNY8T8LeEe2n-DDQQuUV9s": 41, 
+        "ij1bsMbpEe28OTDQQuUV9m": 44, 
+        "jP0LcMPJEe2ENjDQQuUV9j": 42, 
+        "jwc4z35REe6+mrxu4mU-3q": 26, 
+        "qx3QcICeEe66AJiP4GH3wF": 29, 
+        "x+jRz4PZEe6Xlbxu4mU-3r": 30, 
+        "zCyKHoLVEe6Kn7xu4mU-3t": 27
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "2": {
+            "__tuple__": true, 
+            "items": [
+                9248777, 
+                "UI\u4e8b\u4ef6_\u70b9\u51fb"
+            ]
+        }, 
+        "3": {
+            "__tuple__": true, 
+            "items": [
+                491200521, 
+                "UI\u4e8b\u4ef6_\u79fb\u5165"
+            ]
+        }, 
+        "4": {
+            "__tuple__": true, 
+            "items": [
+                810799114, 
+                "UI\u4e8b\u4ef6_\u70b9\u51fb_3"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                894758923, 
+                "UI\u4e8b\u4ef6_\u79fb\u51fa"
+            ]
+        }, 
+        "10": {
+            "__tuple__": true, 
+            "items": [
+                1682063384, 
+                "\u7269\u54c1\u680f\u76d1\u542c"
+            ]
+        }, 
+        "11": {
+            "__tuple__": true, 
+            "items": [
+                1951690780, 
+                "\u70b9\u51fb\u5546\u5e97\u7269\u54c1\u680f"
+            ]
+        }, 
+        "12": {
+            "__tuple__": true, 
+            "items": [
+                2084933672, 
+                "\u79fb\u5165\u7269\u54c1\u680f"
+            ]
+        }, 
+        "13": {
+            "__tuple__": true, 
+            "items": [
+                1128636457, 
+                "\u79fb\u51fa\u7269\u54c1\u680f"
+            ]
+        }, 
+        "14": {
+            "__tuple__": true, 
+            "items": [
+                961265706, 
+                "\u79fb\u5165\u6280\u80fd"
+            ]
+        }, 
+        "15": {
+            "__tuple__": true, 
+            "items": [
+                1632432171, 
+                "\u79fb\u51fa\u6280\u80fd"
+            ]
+        }, 
+        "16": {
+            "__tuple__": true, 
+            "items": [
+                1973796910, 
+                "\u79fb\u51fa\u7269\u54c1\u680f_2"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                1436938287, 
+                "\u79fb\u5165\u7269\u54c1\u680f_2"
+            ]
+        }, 
+        "18": {
+            "__tuple__": true, 
+            "items": [
+                780664882, 
+                "\u79fb\u51fa\u7269\u54c1\u680f_3"
+            ]
+        }, 
+        "19": {
+            "__tuple__": true, 
+            "items": [
+                260575282, 
+                "\u79fb\u5165\u7269\u54c1\u680f_3"
+            ]
+        }, 
+        "21": {
+            "__tuple__": true, 
+            "items": [
+                1783373882, 
+                "\u7ecf\u9a8c\u76d1\u542c"
+            ]
+        }, 
+        "32": {
+            "__tuple__": true, 
+            "items": [
+                17821808, 
+                "\u6d4b\u8bd5\u51fd\u6570"
+            ]
+        }, 
+        "33": {
+            "__tuple__": true, 
+            "items": [
+                324530286, 
+                "ShopUI\u5173\u95ed"
+            ]
+        }, 
+        "34": {
+            "__tuple__": true, 
+            "items": [
+                1901588591, 
+                "\u70b9\u51fb\u8d2d\u4e70"
+            ]
+        }, 
+        "35": {
+            "__tuple__": true, 
+            "items": [
+                257421424, 
+                "\u70b9\u51fb\u51fa\u552e"
+            ]
+        }, 
+        "36": {
+            "__tuple__": true, 
+            "items": [
+                1700262001, 
+                "\u5355\u4f4d\u5c5e\u6027"
+            ]
+        }, 
+        "37": {
+            "__tuple__": true, 
+            "items": [
+                1045950580, 
+                "\u6280\u80fd\u5347\u7ea7"
+            ]
+        }, 
+        "38": {
+            "__tuple__": true, 
+            "items": [
+                56094837, 
+                "\u5355\u4f4d\u4ea7\u751f"
+            ]
+        }, 
+        "39": {
+            "__tuple__": true, 
+            "items": [
+                89727092, 
+                "\u7a7a\u683c\u9009\u4e2d\u63a7\u5236\u7684\u5355\u4f4d"
+            ]
+        }, 
+        "40": {
+            "__tuple__": true, 
+            "items": [
+                56172661, 
+                "\u73a9\u5bb6\u7684\u51fb\u6740\u6570\u8ba1\u7b97"
+            ]
+        }
+    }
+}

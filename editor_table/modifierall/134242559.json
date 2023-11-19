@@ -1,0 +1,109 @@
+{
+    "_custom_": true, 
+    "_ref_": 1007, 
+    "attach_model_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cycle_time": 0, 
+    "desc": -1710964149, 
+    "description": -1710964149, 
+    "disappear_when_dead": false, 
+    "effect_button": null, 
+    "get_effect_list": [
+        [
+            101161, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.4, 
+                    0.4, 
+                    0.4
+                ]
+            }, 
+            1.0, 
+            "origin", 
+            true, 
+            0
+        ]
+    ], 
+    "halo_effect": 0, 
+    "ign_inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ign_inf_unit_type": 2, 
+    "inf_unit_tag": [], 
+    "influence_rng": 100, 
+    "is_influence_self": true, 
+    "key": 134242559, 
+    "kv": {
+        "Rate": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "Rate", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 100.0
+        }
+    }, 
+    "layer_change_of_cover": 1, 
+    "layer_max": 5, 
+    "lose_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "material_alpha": 1.0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 1.0, 
+    "model": 100032, 
+    "modifier_cover_type": 4, 
+    "modifier_effect": 2, 
+    "modifier_icon": 120507, 
+    "modifier_type": 1, 
+    "name": 2028814160, 
+    "same_origin_cover": true, 
+    "shield_change_of_cover": 2, 
+    "shield_type": 1, 
+    "shield_value": 0, 
+    "show_on_ui": true, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_allow": 1, 
+    "time_change_of_cover": 1, 
+    "uid": "134242559"
+}

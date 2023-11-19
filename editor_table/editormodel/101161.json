@@ -1,0 +1,40 @@
+{
+    "describe": -1040887277, 
+    "editor_res": false, 
+    "key": 101161, 
+    "map_name": "H12\u5929\u4e0bX\u5929\u4e0b", 
+    "model_id": 101161, 
+    "name": 636852974, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Chinese style", 
+            "code_Buildings", 
+            "code_Building components", 
+            "code_Xianxia", 
+            "code_Blue", 
+            "code_Stone", 
+            "code_Base"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            8.0, 
+            1.28
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/101161", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 25.0, 
+    "size": 0.04, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_101161"
+}

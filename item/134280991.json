@@ -1,0 +1,99 @@
+{
+    "local_variable": {
+        "1174917121": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u7384\u673a\u75324\u9636\u8fd1\u6218\u88ab\u52a8": 0.0, 
+                    "\u7384\u673a\u75324\u9636\u8fdc\u7a0b\u88ab\u52a8": 0.0
+                }, 
+                "NEW_TIMER": {}
+            }, 
+            "variable_length_dict": {
+                "\u7384\u673a\u75324\u9636\u8fd1\u6218\u88ab\u52a8": 0, 
+                "\u7384\u673a\u75324\u9636\u8fdc\u7a0b\u88ab\u52a8": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "1174917121": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "U", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "LAST_ADD_ITEM_UNIT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 789045249910088, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 11749171210001, 
+                    "enable": true, 
+                    "event_type": "ITEM_ADD_EVENT"
+                }
+            ], 
+            "group_id": 134280991, 
+            "p_trigger_id": null, 
+            "trigger_id": 1174917121, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1174917121, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134280991, 
+            "name": "134280991"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "NEW_TIMER": {
+            "jsq": -1
+        }, 
+        "UNIT_ENTITY": {
+            "U": 0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "U", 
+            "(U)"
+        ], 
+        [
+            "jsq", 
+            "(jsq)"
+        ]
+    ], 
+    "variable_length_dict": {
+        "U": 0, 
+        "jsq": 0
+    }
+}

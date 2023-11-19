@@ -1,0 +1,70 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "644902917": {
+            "action": [
+                {
+                    "action_type": "BREAK_UNIT_MOVER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "SoulOrb"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_UNIT_ENTITY_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 6449029170008, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 6449029170003, 
+                    "enable": true, 
+                    "event_type": "ABILITY_SP_END"
+                }
+            ], 
+            "group_id": 201340486, 
+            "p_trigger_id": null, 
+            "trigger_id": 644902917, 
+            "trigger_name": "Ability Preparation Ends", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    644902917, 
+                    "Ability Preparation Ends"
+                ]
+            ], 
+            "key": 201340486, 
+            "name": "201340486"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "UNIT_GROUP": {}
+    }, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

@@ -1,0 +1,57 @@
+{
+    "ability_all": [
+        "AOE", 
+        "system", 
+        "\u53cd\u5f39", 
+        "\u5927\u62db", 
+        "\u5efa\u9020", 
+        "\u7269\u54c1\u6280\u80fd", 
+        "\u7279\u6b8a\u6280\u80fd", 
+        "\u7279\u6b8a\u666e\u653b", 
+        "\u7279\u6b8a\u7269\u54c1"
+    ], 
+    "editor_decoration": [], 
+    "editor_item": [
+        "\u4e3b\u52a8", 
+        "\u51b7\u5374", 
+        "\u56de\u84dd", 
+        "\u56de\u8840", 
+        "\u62a4\u7532", 
+        "\u653b\u51fb", 
+        "\u653b\u901f", 
+        "\u66b4\u51fb", 
+        "\u6c14\u8840", 
+        "\u6cd5\u4f24", 
+        "\u6cd5\u529b\u503c", 
+        "\u6cd5\u5438", 
+        "\u6cd5\u6297", 
+        "\u6cd5\u672f", 
+        "\u6cd5\u7a7f", 
+        "\u6d88\u8017\u54c1", 
+        "\u7269\u5438", 
+        "\u7269\u653b", 
+        "\u7269\u7a7f", 
+        "\u79fb\u901f", 
+        "\u88ab\u52a8\u4f7f\u7528", 
+        "\u9632\u5fa1"
+    ], 
+    "editor_unit": [
+        "Boss\u5361", 
+        "NPC", 
+        "\u5173\u5361\u5361", 
+        "\u5546\u4eba\u5361", 
+        "\u5b9d\u7bb1", 
+        "\u5b9d\u7bb1\u5361", 
+        "\u602a\u7269", 
+        "\u6076\u9b54\u5173\u5361\u5361", 
+        "\u795e\u7236", 
+        "\u795e\u7236\u5361", 
+        "\u95ee\u53f7\u5361", 
+        "\u9632\u5fa1\u5854", 
+        "\u969c\u788d"
+    ], 
+    "modifier_all": [], 
+    "projectile_all": [
+        "\u654c\u4eba\u6295\u5c04\u7269"
+    ]
+}

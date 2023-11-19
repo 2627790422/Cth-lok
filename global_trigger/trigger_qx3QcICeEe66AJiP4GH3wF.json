@@ -1,0 +1,229 @@
+{
+    "trigger_dict": {
+        "995111007": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "\u62a4\u7532\u503c"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "\u62a4\u7532\u503c"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }, 
+                                {
+                                    "arg_type": 100016, 
+                                    "args_list": [
+                                        "+"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "\u589e\u52a0\u503c", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }
+                            ], 
+                            "sub_type": "MATH_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 995111007000001, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ROLE_SET_RES", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100037, 
+                            "args_list": [
+                                "0vKzwH8BEe63qJiP4GH3wI"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "INTEGER", 
+                                        "\u62a4\u7532\u503c"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 995111007000012, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u62a4\u76fe\u589e\u52a0{\u589e\u52a0\u503c}", 
+            "func_id": "a38c67de809e11ee8e01988fe061f7c0", 
+            "func_name": "\u589e\u52a0\u62a4\u76fe", 
+            "func_param_list": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u589e\u52a0\u503c", 
+                        true
+                    ]
+                }
+            ], 
+            "group_id": 0, 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 995111007, 
+            "trigger_name": "\u589e\u52a0\u62a4\u76fe", 
+            "valid": true
+        }, 
+        "1744449651": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u62a4\u7532\u503c"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 995111007000001, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ROLE_SET_RES", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100037, 
+                            "args_list": [
+                                "0vKzwH8BEe63qJiP4GH3wI"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u62a4\u7532\u503c"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 995111007000012, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "func_category": "t_function", 
+            "func_comment": "", 
+            "func_des": "\u8ba9\u62a4\u76fe\u5f52\u96f6", 
+            "func_id": "77b25ecf83e211ee813abc6ee2653fde", 
+            "func_name": "\u62a4\u76fe\u5f52\u96f6", 
+            "group_id": "qx3QcICeEe66AJiP4GH3wF", 
+            "is_func": true, 
+            "is_official_func": false, 
+            "p_trigger_id": null, 
+            "trigger_id": 1744449651, 
+            "trigger_name": "\u62a4\u76fe\u5f52\u96f6", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_function_": true, 
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    995111007, 
+                    "\u589e\u52a0\u62a4\u76fe"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1744449651, 
+                    "\u62a4\u76fe\u5f52\u96f6"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "qx3QcICeEe66AJiP4GH3wF", 
+        "name": "\u62a4\u76fe"
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u5f53\u524d\u602a\u7269\u6ce2\u6570", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    118.0, 
+                                    224.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0000032327945, 
+                                    79.7153024911032
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    231.4285831451416, 
+                                    33.14288330078125
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5f53\u524d\u602a\u7269\u6ce2\u6570\uff1a5/60", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "df8735b0-e644-418e-8a89-5bacb6a82301"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u573a\u4e0a\u5269\u4f59\u602a\u7269", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    116.85713195800781, 
+                                    191.28570556640625
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.51573708199563, 
+                                    68.07320482790257
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    229.71426391601562, 
+                                    31.428573608398438
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u573a\u4e0a\u5269\u4f59\u602a\u7269\uff1a5", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "59817328-6e13-4952-8a4c-2c7c66c86800"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u4e0b\u4e00\u6ce2\u5012\u8ba1\u65f6", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    116.0, 
+                                    21.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.152545550882735, 
+                                    7.473309608540925
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    232.66666412353516, 
+                                    28.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u8ddd\u79bb\u4e0b\u4e00\u6ce2\u8fd8\u6709\uff1a30s", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "5c9097e1-53b7-4f41-974f-f3a8722d7e1f"
+                        }, 
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u6807\u9898", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    118.33222961425781, 
+                                    263.3084716796875
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.14077850217519, 
+                                    93.70408244828737
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    226.8571319580078, 
+                                    30.28570556640625
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5173\u5361\u4fe1\u606f", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "8de8dbd7-a469-4377-b49a-3cd9dc5dcad6"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u5269\u4f59\u751f\u547d\u503c", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    119.0, 
+                                    158.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.42373207375038, 
+                                    56.22775800711744
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    233.99999237060547, 
+                                    34.666656494140625
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5269\u4f59\u751f\u547d\u503c\uff1a1", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "201b200c-7558-47fc-9e9a-a6eda7a7930c"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u51fb\u6740\u6570", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    124.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    42.37288409558856, 
+                                    44.128113879003564
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    194.66668701171875, 
+                                    33.99998474121094
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u51fb\u6740\u6570\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "d80175ac-1e87-434c-83e0-7421b8427e20"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    18
+                                ]
+                            }, 
+                            "name": "\u4e0b\u6ce2\u602a\u7269", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    114.0, 
+                                    60.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.30508786897096, 
+                                    21.352313167259787
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    227.33334350585938, 
+                                    34.666656494140625
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u4e0b\u6ce2\u602a\u7269\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "25b7a506-6180-4610-8dfb-c5e9aacfcabb"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKSongW9", 
+                                    17
+                                ]
+                            }, 
+                            "name": "\u5f53\u524d\u602a\u7269", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    117.33331298828125, 
+                                    92.66668701171875
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.71750871803857, 
+                                    32.97746868744439
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    233.0, 
+                                    31.5
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u5f53\u524d\u602a\u7269\uff1a", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "f9ee2676-c145-428f-bb46-0e9719708c5d"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 106337, 
+                    "name": "image_6", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            148.080078125, 
+                            160.1981201171875
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.6496362934899, 
+                            47.86796999842062
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            235.99998474121094, 
+                            281.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "09cf3ea7-36e6-47bc-aca0-08f1ce80a137"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_2", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    149.12503051757812, 
+                    912.6665649414062
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    7.7669286727905265, 
+                    84.50616342050058
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    298.2500762939453, 
+                    334.6666259765625
+                ]
+            }, 
+            "type": 7, 
+            "uid": "79e988da-997c-4d2e-87f0-039a5cb9ecc9"
+        }
+    ], 
+    "name": "panel_2", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "4df730be-128f-4f5f-bd17-afd267b65d00", 
+    "visible": false, 
+    "zorder": 400
+}

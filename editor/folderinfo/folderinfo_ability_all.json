@@ -1,0 +1,174 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "vFQyIYXqEe6ej7xu4mU-3q", 
+    "\u63cf\u8ff0\u6280\u80fd"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "et2fHnhSEe6UZ1DWPMjbAX", 
+    "\u653b\u51fb\u6280\u80fd"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/et2fHnhSEe6UZ1DWPMjbAX", 
+    0, 
+    "n2rdD4VREe6lHGwkCDI-uV", 
+    "\u602a\u7269\u653b\u51fb"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/et2fHnhSEe6UZ1DWPMjbAX", 
+    1, 
+    "m0ZgroVREe6BomwkCDI-uX", 
+    "\u9632\u5fa1\u5854\u653b\u51fb"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    2, 
+    "NRvkMH5eEe6vqbxu4mU-3s", 
+    "\u9632\u5fa1\u6280\u80fd"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    3, 
+    "et+a7nhSEe6gd1DWPMjbAe", 
+    "\u5efa\u9020\u6280\u80fd"
+   ]
+  }
+ ], 
+ "d": {
+  "134226283": {
+   "__tuple__": true, 
+   "items": [
+    "vFQyIYXqEe6ej7xu4mU-3q", 
+    0
+   ]
+  }, 
+  "134227801": {
+   "__tuple__": true, 
+   "items": [
+    "vFQyIYXqEe6ej7xu4mU-3q", 
+    1
+   ]
+  }, 
+  "134239649": {
+   "__tuple__": true, 
+   "items": [
+    "n2rdD4VREe6lHGwkCDI-uV", 
+    0
+   ]
+  }, 
+  "134236372": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    0
+   ]
+  }, 
+  "134223970": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    1
+   ]
+  }, 
+  "134244287": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    2
+   ]
+  }, 
+  "134263573": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    3
+   ]
+  }, 
+  "134270828": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    4
+   ]
+  }, 
+  "134244963": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    5
+   ]
+  }, 
+  "134262095": {
+   "__tuple__": true, 
+   "items": [
+    "m0ZgroVREe6BomwkCDI-uX", 
+    6
+   ]
+  }, 
+  "134257707": {
+   "__tuple__": true, 
+   "items": [
+    "NRvkMH5eEe6vqbxu4mU-3s", 
+    0
+   ]
+  }, 
+  "134258316": {
+   "__tuple__": true, 
+   "items": [
+    "et+a7nhSEe6gd1DWPMjbAe", 
+    0
+   ]
+  }, 
+  "134249122": {
+   "__tuple__": true, 
+   "items": [
+    "et+a7nhSEe6gd1DWPMjbAe", 
+    1
+   ]
+  }, 
+  "134263184": {
+   "__tuple__": true, 
+   "items": [
+    "et+a7nhSEe6gd1DWPMjbAe", 
+    2
+   ]
+  }, 
+  "134276257": {
+   "__tuple__": true, 
+   "items": [
+    "et+a7nhSEe6gd1DWPMjbAe", 
+    3
+   ]
+  }
+ }
+}

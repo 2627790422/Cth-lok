@@ -1,0 +1,1163 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 100817, 
+                    "name": "image_11", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            16.0, 
+                            15.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            20.51282051282051, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            31.0, 
+                            31.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "87f60464-e86b-43b1-bef9-45eb88119859"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            12
+                        ]
+                    }, 
+                    "name": "label_4", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            60.0, 
+                            15.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            76.92307692307693, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            47.0, 
+                            21.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "", 
+                            false
+                        ]
+                    }, 
+                    "text_bind": {
+                        "__tuple__": true, 
+                        "items": [
+                            3, 
+                            "0vKzwH8BEe63qJiP4GH3wI"
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "be9e608b-1fc3-44d0-b04a-59a60b5fb42d"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u4e3b\u62a4\u7532\u503c", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    78.0, 
+                    30.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "39b7a52b-153b-4892-844a-f0d019836d47", 
+            "visible": false
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 132183, 
+                    "name": "image_3", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.99993896484375, 
+                            49.99993896484375
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.99993896484375, 
+                            49.99993896484375
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "c41593d9-d4bb-4504-965a-1639e761ff4f"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u6548\u679c\u9884\u8b66", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "type": 7, 
+            "uid": "cf912e6a-714e-4134-a606-4111723895da"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 132341, 
+                    "name": "\u653b\u51fb\u9884\u8b66\u56fe\u7247", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.999969482421875, 
+                            49.99993896484375
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.999969482421875, 
+                            49.99993896484375
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "f8e4234c-ef14-4301-9d44-b71f78a93759"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            50
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            217, 
+                            4, 
+                            22, 
+                            255
+                        ]
+                    }, 
+                    "name": "\u602a\u7269\u653b\u51fb\u4f24\u5bb3", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            174.0, 
+                            56.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            174.0, 
+                            56.00000000000001
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            177.0, 
+                            163.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "20", 
+                            false
+                        ]
+                    }, 
+                    "text_bind": {
+                        "__tuple__": true, 
+                        "items": [
+                            3, 
+                            "VpLqsHlEEe6r07xu4mU-3v"
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "9fcd9d99-b72b-4c3c-b980-1a5c7ccd4b35"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u653b\u51fb\u9884\u8b66", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.4, 
+                    0.4
+                ]
+            }, 
+            "type": 7, 
+            "uid": "902c6b5c-ac58-4453-88e1-d390dc7c01ce"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 100664, 
+                    "name": "image_3", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -78.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            -78.0, 
+                            50.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "e54022e1-1404-42f5-9bb8-e32bc4ca5d4a"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "MSYH", 
+                            36
+                        ]
+                    }, 
+                    "name": "\u751f\u547d\u503c\u663e\u793a", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            57.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            56.99999999999999, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            114.0, 
+                            100
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "10", 
+                            false
+                        ]
+                    }, 
+                    "text_bind": {
+                        "__tuple__": true, 
+                        "items": [
+                            3, 
+                            "eKmvwDDjEe6fHzDQQuc0bu"
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "164dc16b-1a23-4920-bcd1-c7c12c672067"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u4e3b\u751f\u547d\u503c", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.5, 
+                    0.5
+                ]
+            }, 
+            "type": 7, 
+            "uid": "5dc5f71f-96ec-4099-a352-aa93b7346973", 
+            "visible": false
+        }, 
+        {
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -85.34326171875, 
+                        66.65673828125, 
+                        -565.4776000976562, 
+                        400.52239990234375
+                    ], 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                79.1044921875, 
+                                0.0, 
+                                0.0, 
+                                394.02984619140625
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        26.5049991607666, 
+                                        26.5049991607666, 
+                                        63.404998779296875, 
+                                        63.404998779296875
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "label_40", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132.47763061523438, 
+                                            38.44775390625
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            138.145263671875, 
+                                            23.885509490966797
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u53f3\u952e\u62fe\u53d6\u7269\u54c1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "typewriter_effect": 1, 
+                                    "typewriter_space": 0.1, 
+                                    "uid": "25a446d7-c262-4463-a89a-6d9795e47ba8"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [
+                                        {
+                                            "action_list": [
+                                                {
+                                                    "anim_duration": 1.0, 
+                                                    "anim_id": 9, 
+                                                    "anim_type": 0, 
+                                                    "comp": "85129d8d-1603-4d10-9319-2529d457762a", 
+                                                    "ease_type": 0, 
+                                                    "name": "Show_16", 
+                                                    "open_timeline": true, 
+                                                    "type": 2
+                                                }
+                                            ], 
+                                            "enabled": true, 
+                                            "name": "F_0", 
+                                            "sound_id": null, 
+                                            "type": -1
+                                        }
+                                    ], 
+                                    "image": 134265038, 
+                                    "name": "\u53f3\u952eicon", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132.0, 
+                                            -18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.819731598075755, 
+                                            -23.408389530232025
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            35.0, 
+                                            35.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "85129d8d-1603-4d10-9319-2529d457762a"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 107605, 
+                            "name": "\u53f3\u62fe\u53d6", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    132.47760009765625, 
+                                    59.34326171875
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    264.95526123046875, 
+                                    76.8955078125
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "f86ff7f9-932c-4f73-9eb6-1fd5b6772569"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "\u53f3\u952e\u62fe\u53d6", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -433.0, 
+                            126.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            -433.0, 
+                            126.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            264.9552001953125, 
+                            118.6865234375
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "4975212d-e732-49c1-9afd-18fab04a2b19"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_49", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "5ae15f74-138a-4f0c-9c87-f37fa0b42b13"
+        }, 
+        {
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        70.65673828125, 
+                        -89.34326171875, 
+                        -565.4776000976562, 
+                        400.52239990234375
+                    ], 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                79.1044921875, 
+                                0.0, 
+                                0.0, 
+                                394.02984619140625
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        26.5049991607666, 
+                                        26.5049991607666, 
+                                        63.404998779296875, 
+                                        63.404998779296875
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "label_40", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132.47763061523438, 
+                                            38.44775390625
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            138.145263671875, 
+                                            23.885509490966797
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u5de6\u952e\u5f00\u542f", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "typewriter_effect": 1, 
+                                    "typewriter_space": 0.1, 
+                                    "uid": "fd8b9820-3b8e-4159-bbed-960e6b6cde6d"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [
+                                        {
+                                            "action_list": [
+                                                {
+                                                    "anim_duration": 1.0, 
+                                                    "anim_id": 8, 
+                                                    "anim_type": 0, 
+                                                    "comp": "c104a149-c935-4adf-a09b-3fe22469f351", 
+                                                    "ease_type": 12, 
+                                                    "name": "Show_17", 
+                                                    "open_timeline": true, 
+                                                    "type": 2
+                                                }
+                                            ], 
+                                            "enabled": true, 
+                                            "name": "F_0", 
+                                            "sound_id": null, 
+                                            "type": -1
+                                        }
+                                    ], 
+                                    "image": 134280484, 
+                                    "name": "\u5de6\u952eicon", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132.0, 
+                                            -18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.819731598075755, 
+                                            -23.408389530232025
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            35.0, 
+                                            35.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "c104a149-c935-4adf-a09b-3fe22469f351"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 107605, 
+                            "name": "\u5de6\u5f00\u542f", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -132.0, 
+                                    32.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -49.819743074563476, 
+                                    26.96178055704118
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    264.95526123046875, 
+                                    76.8955078125
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "2e10ecca-f24d-4aaf-8fdf-27d71abab762"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "\u5de6\u952e\u5f00\u542f", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            -433.0, 
+                            -30.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            -433.0, 
+                            -30.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            264.9552001953125, 
+                            118.6865234375
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "061ae924-bb18-4ada-b22a-71b12c44fd64"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_27", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "1de16127-ab2f-49a3-8363-a306fe6352b2"
+        }, 
+        {
+            "children": [
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "bold": true, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            22
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            15, 
+                                            14, 
+                                            14, 
+                                            255
+                                        ]
+                                    }, 
+                                    "label_effect": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            true, 
+                                            false, 
+                                            false, 
+                                            false
+                                        ]
+                                    }, 
+                                    "name": "label_13", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            68.5, 
+                                            20.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u6355\u9c7c\u70b9", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "22170ad0-5dd7-4439-a6ee-ea2938e01d4d"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKWeiBeiW7", 
+                                            22
+                                        ]
+                                    }, 
+                                    "name": "label_12", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            68.5, 
+                                            20.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u6355\u9c7c\u70b9", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "0420b15a-6738-4c01-a505-2516c293d5d7"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 134247836, 
+                            "name": "image_108", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    122.5999984741211
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    122.59999847412108
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    137.0, 
+                                    40.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "09f4d0a0-0b09-4cda-84b6-75d7a02cd041"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "\u6355\u9c7c", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            503.0, 
+                            -39.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            503.0, 
+                            -39.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "6fb6cb67-25d9-49de-9fef-0fc6a6c35280"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_25", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "e2518b47-8467-4bee-82d3-afcde9ff19f1"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                404.0, 
+                576.0, 
+                541.3200073242188, 
+                1278.6799926757812
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        98.46666240692139, 
+                        -3.7333364486694336, 
+                        -34.766685485839844, 
+                        63.233314514160156
+                    ], 
+                    "background_type": 0, 
+                    "bg_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0, 
+                            255
+                        ]
+                    }, 
+                    "children": [], 
+                    "color": {
+                        "__tuple__": true, 
+                        "items": [
+                            223, 
+                            213, 
+                            213, 
+                            255
+                        ]
+                    }, 
+                    "current_value": 100.0, 
+                    "event_list": [], 
+                    "name": "\u6ed1\u52a8\u6761", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1.0, 
+                            -1.0999994277954102
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            1.0, 
+                            -1.0999994277954102
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            71.53337097167969, 
+                            5.266674041748047
+                        ]
+                    }, 
+                    "type": 5, 
+                    "uid": "1ef0ccbc-cf10-44a8-95e7-0e75cdcca874"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u6ed1\u52a8\u6761\u7a7a\u8282\u70b9", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "40e0ea31-235f-4e90-876a-1e005b728ec7"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1020.0, 
+                0.0, 
+                1830.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        48.0, 
+                        -13.0, 
+                        75.0, 
+                        -10.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 108405, 
+                    "name": "img", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.5, 
+                            -0.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            97.22222222222221, 
+                            -0.8333333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.0, 
+                            25.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "bc43f17a-28fb-492a-9cd4-f8fdd20730e7"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ddd", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    60.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "21cdd1c3-993d-49f2-905e-5af817f3b115"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1020.0, 
+                0.0, 
+                1830.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        false, 
+                        48.0, 
+                        -13.0, 
+                        75.0, 
+                        -10.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 108404, 
+                    "name": "img", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.5, 
+                            -0.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            97.22222222222221, 
+                            -0.8333333333333334
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.0, 
+                            25.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "44145154-65d5-4527-9909-2b5f21243a51"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ysd", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    60.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "d0a7c5af-5659-4a14-9220-3484aa5faac8"
+        }
+    ], 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

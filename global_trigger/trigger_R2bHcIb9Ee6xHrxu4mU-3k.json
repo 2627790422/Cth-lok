@@ -1,0 +1,226 @@
+{
+    "trigger_dict": {
+        "827834489": {
+            "action": [
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u6b22\u8fce\u4f7f\u7528\u82f1\u96c4\u4e09\u56fd\u7f16\u8f91\u5668"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 827834489000002, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ENABLE_FOW_FOR_PLAYER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 827834489000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "OPEN_OR_CLOSE_TIME_SPEED", 
+                    "args_list": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 827834489000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 827834489000001, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "R2bHcIb9Ee6xHrxu4mU-3k", 
+            "p_trigger_id": null, 
+            "trigger_id": 827834489, 
+            "trigger_name": "\u6e38\u620f\u521d\u59cb\u5316", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    827834489, 
+                    "\u6e38\u620f\u521d\u59cb\u5316"
+                ]
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            710406251, 
+                            "\u9009\u4e2d\u5546\u5e97"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1163391084, 
+                            "\u6846\u9009\u5355\u4f4d"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            777515117, 
+                            "\u6ce8\u518cUI\u4e8b\u4ef6"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            2052583538, 
+                            "\u5355\u4f4d\u5c5e\u6027\u7ed1\u5b9a"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1767370867, 
+                            "\u6280\u80fd\u5347\u7ea7\u4e8b\u4ef6"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            173535350, 
+                            "\u9f20\u6807\u79fb\u52a8"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1465380983, 
+                            "\u663c\u591c\u65f6\u95f4"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            794292344, 
+                            "\u6280\u80fd\u53d8\u66f4\u4e8b\u4ef6"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            509079673, 
+                            "\u9009\u4e2d\u7269\u54c1/\u53ef\u7834\u574f\u7269"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "UCsKsIb9Ee6LlLxu4mU-3s", 
+                "name": "UI"
+            }, 
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            827908217, 
+                            "\u5168\u5c40\u8ba1\u65f6\u5668"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            760815729, 
+                            "\u521d\u59cb\u5316\u8bbe\u7f6e"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1113137266, 
+                            "\u602a\u7269\u521d\u59cb\u5316"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1431904371, 
+                            "\u73a9\u5bb6\u521d\u59cb\u5316"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1213800566, 
+                            "\u9f20\u6807\u60ac\u6d6e\u7279\u6548"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1633230967, 
+                            "\u602a\u7269\u51fa\u751f"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            811147384, 
+                            "\u602a\u7269\u6b7b\u4ea1"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            827924601, 
+                            "\u602a\u7269\u5230\u8fbe\u7ec8\u70b9"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "VkpFoYb9Ee6Y07xu4mU-3v", 
+                "name": "\u521d\u59cb\u5316"
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "R2bHcIb9Ee6xHrxu4mU-3k", 
+        "name": "\u524d\u4efb\u9879\u76ee\u9057\u7559"
+    }
+}

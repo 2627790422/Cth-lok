@@ -1,0 +1,104 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "background_type": 0, 
+            "children": [], 
+            "disabled_color": null, 
+            "disabled_picture": null, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "7c9e14d3-ee30-47bc-a09d-4b70a5fd98bc", 
+                            "ease_type": 0, 
+                            "name": "BackToHall_3", 
+                            "open_timeline": true, 
+                            "type": 5
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_2_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "button_2", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0, 
+                    255
+                ]
+            }, 
+            "normal_picture": 120051, 
+            "opacity": 0.3, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "press_color": null, 
+            "press_picture": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "suspend_color": null, 
+            "suspend_picture": 0, 
+            "swallow_touches": true, 
+            "type": 1, 
+            "uid": "cad39405-8b51-42f9-8bad-a3c505a91423"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 107738, 
+            "name": "win", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    552.0, 
+                    303.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "230b4166-5c4f-4009-9e3a-cbe1130cf152"
+        }
+    ], 
+    "name": "win", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 
+    "visible": true, 
+    "zorder": 400
+}

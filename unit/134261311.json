@@ -1,0 +1,362 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1657729025": {
+            "action": [
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134237677
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000019, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134237677
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000022, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134237677
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000029, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134237677
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000032, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134237677
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000039, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134268153
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000046, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134268153
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000053, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134268153
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000060, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134268153
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000067, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134268153
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000074, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134242413
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000081, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134222844
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000084, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134222844
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000091, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134222844
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000098, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134222844
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000105, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "UNIT_ADD_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "GET_UNIT_FROM_EVENT"
+                        }, 
+                        {
+                            "arg_type": 100032, 
+                            "args_list": [
+                                134222844
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1657729025000112, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1657729025000003, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134261311, 
+            "p_trigger_id": null, 
+            "trigger_id": 1657729025, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1657729025, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134261311, 
+            "name": "134261311"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

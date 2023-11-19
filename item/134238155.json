@@ -1,0 +1,105 @@
+{
+    "local_variable": {
+        "1241452545": {
+            "variable_dict": {
+                "RECTANGLE": {
+                    "\u533a\u57df": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u53ec\u5524\u9632\u5fa1\u5854\u5b58\u653e": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u533a\u57df": 0, 
+                "\u53ec\u5524\u9632\u5fa1\u5854\u5b58\u653e": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "1241452545": {
+            "action": [
+                {
+                    "action_type": "CREATE_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100116, 
+                            "args_list": [
+                                134282380
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100009, 
+                                    "args_list": [
+                                        10074
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "RECTANGLE_RANDOM_POINT"
+                        }, 
+                        {
+                            "arg_type": 100225, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        180.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ANGLE_BY_FLOAT"
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1241452545000092, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1241452545000003, 
+                    "enable": true, 
+                    "event_type": "ITEM_USE_EVENT"
+                }
+            ], 
+            "group_id": 134238155, 
+            "p_trigger_id": null, 
+            "trigger_id": 1241452545, 
+            "trigger_name": "\u4f7f\u7528\u6280\u80fd", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1241452545, 
+                    "\u4f7f\u7528\u6280\u80fd"
+                ]
+            ], 
+            "key": 134238155, 
+            "name": "134238155"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

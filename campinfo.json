@@ -1,0 +1,192 @@
+{
+    "camp": {
+        "1": {
+            "camp_name": "$faction 1", 
+            "camp_name_en": "$faction 1", 
+            "camp_name_zh": "\u9635\u8425 1", 
+            "least_num": 0, 
+            "roles": [
+                1
+            ], 
+            "share_vision": true
+        }, 
+        "30": {
+            "camp_name": "$code_camp_referee", 
+            "camp_name_en": "Observer", 
+            "camp_name_zh": "\u88c1\u5224", 
+            "least_num": 0, 
+            "roles": [], 
+            "share_vision": true
+        }, 
+        "9999": {
+            "camp_name": "$faction 9999", 
+            "camp_name_en": "$faction 9999", 
+            "camp_name_zh": "\u4e2d\u7acb", 
+            "least_num": 0, 
+            "roles": [
+                31, 
+                32
+            ], 
+            "share_vision": true
+        }
+    }, 
+    "camp_limit": 1, 
+    "role": {
+        "1": {
+            "camp_id": 1, 
+            "role_color": "#FF0000", 
+            "role_name": "$player 1", 
+            "role_name_en": "$player 1", 
+            "role_name_zh": "\u73a9\u5bb6 1", 
+            "role_type": 1
+        }, 
+        "31": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 31", 
+            "role_name_en": "$player 31", 
+            "role_name_zh": "\u4e2d\u7acb \u654c\u5bf9", 
+            "role_type": 2
+        }, 
+        "32": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 32", 
+            "role_name_en": "$player 32", 
+            "role_name_zh": "\u4e2d\u7acb \u53cb\u5584", 
+            "role_type": 2
+        }
+    }, 
+    "role_res_types": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "official_res_1", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "gold", 
+                    "icon_id": 130873, 
+                    "is_coin": true, 
+                    "is_editored": true, 
+                    "key": "official_res_1", 
+                    "maximun": [
+                        1073758208, 
+                        1073741824
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "gold"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "eKmvwDDjEe6fHzDQQuc0bu", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u8840\u91cf", 
+                    "icon_id": 100664, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "eKmvwDDjEe6fHzDQQuc0bu", 
+                    "maximun": [
+                        20, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u8840\u91cf"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "PxUIAG6GEe6oipiP4GH3wD", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u795e\u5723\u503c", 
+                    "icon_id": 131853, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "PxUIAG6GEe6oipiP4GH3wD", 
+                    "maximun": [
+                        1073758208, 
+                        1073741824
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u795e\u5723\u503c"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "VpLqsHlEEe6r07xu4mU-3v", 
+                {
+                    "default": [
+                        -2, 
+                        0
+                    ], 
+                    "desc": "\u602a\u7269\u4f24\u5bb3", 
+                    "icon_id": 0, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "VpLqsHlEEe6r07xu4mU-3v", 
+                    "maximun": [
+                        1073758208, 
+                        1073741824
+                    ], 
+                    "minimun": [
+                        -1000000000, 
+                        0
+                    ], 
+                    "name": "\u602a\u7269\u4f24\u5bb3"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "0vKzwH8BEe63qJiP4GH3wI", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "\u62a4\u7532", 
+                    "icon_id": 106619, 
+                    "is_coin": false, 
+                    "is_editored": true, 
+                    "key": "0vKzwH8BEe63qJiP4GH3wI", 
+                    "maximun": [
+                        100000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "\u62a4\u7532"
+                }
+            ]
+        }
+    ]
+}

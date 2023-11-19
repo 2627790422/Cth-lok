@@ -1,0 +1,88 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1978228737": {
+            "action": [
+                {
+                    "action_type": "CREATE_SFX_ON_POINT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100066, 
+                            "args_list": [
+                                101949
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100077, 
+                                    "args_list": [], 
+                                    "sub_type": "PROJECTILE_SELF"
+                                }
+                            ], 
+                            "sub_type": "PROJECTILE_ENTITY_POINT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 19782287370005, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        null, 
+                        null, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                2.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        false, 
+                        true, 
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 19782287370002, 
+                    "enable": true, 
+                    "event_type": "DEATH_PROJECTILE"
+                }
+            ], 
+            "group_id": 201364704, 
+            "p_trigger_id": null, 
+            "trigger_id": 1978228737, 
+            "trigger_name": "Destroy", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1978228737, 
+                    "Destroy"
+                ]
+            ], 
+            "key": 201364704, 
+            "name": "201364704"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

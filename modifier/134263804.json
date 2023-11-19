@@ -1,0 +1,166 @@
+{
+    "local_variable": {
+        "487161859": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "U": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "U": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "487161859": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "U", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 487161859590076, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "REMOVE_BUFF_TYPE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100046, 
+                            "args_list": [
+                                134230077
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4871618590009, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ENABLE_ABILITY", 
+                    "args_list": [
+                        {
+                            "arg_type": 100014, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100076, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_MODIFIER"
+                                }
+                            ], 
+                            "sub_type": "RELATED_ABILITY"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 487161859590069, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "IMMEDIATELY_CLEAR_CD", 
+                    "args_list": [
+                        {
+                            "arg_type": 100014, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100076, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_MODIFIER"
+                                }
+                            ], 
+                            "sub_type": "RELATED_ABILITY"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 487161859590015, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "RESTART_COLDDOWN", 
+                    "args_list": [
+                        {
+                            "arg_type": 100014, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100076, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_MODIFIER"
+                                }
+                            ], 
+                            "sub_type": "RELATED_ABILITY"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 487161859590018, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 4871618590001, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 134263804, 
+            "p_trigger_id": null, 
+            "trigger_id": 487161859, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    487161859, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ]
+            ], 
+            "key": 134263804, 
+            "name": "134263804"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "DYNAMIC_TRIGGER_INSTANCE": {
+            "\u6218\u795e": 0
+        }, 
+        "UNIT_ENTITY": {}
+    }, 
+    "variable_group_info": [
+        [
+            "\u6218\u795e", 
+            "(\u6218\u795e)_2"
+        ]
+    ], 
+    "variable_length_dict": {
+        "\u6218\u795e": 0
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "JHhsz75LEe2MVjDQQuUV9i": 0, 
+    "JHhsz75LEe2MVjDQQuUV9i_grow": 0, 
+    "affect_techs": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "agility": 0.0, 
+    "agility_grow": 0.0, 
+    "alarm_range": 8.0, 
+    "angle_tolerance": 1, 
+    "armor_type": 20000, 
+    "attack_interval": 1, 
+    "attack_interval_grow": 0, 
+    "attack_mag": 0.0, 
+    "attack_mag_grow": 0.0, 
+    "attack_phy": 0.0, 
+    "attack_phy_grow": 0.0, 
+    "attack_range": 0.0, 
+    "attack_range_grow": 0, 
+    "attack_speed": 0.0, 
+    "attack_speed_grow": 0.0, 
+    "attack_type": 10000, 
+    "bar_show_name": 0, 
+    "bar_show_scale": false, 
+    "bar_slot_size": 6, 
+    "base_color_mod": 0, 
+    "base_tint_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
+    "billboard_height_offset": 0.0, 
+    "billboard_name_font": "DFPYuanW7-GB", 
+    "billboard_scale_x": 1.0, 
+    "billboard_scale_y": 1.0, 
+    "blood_bar": 0, 
+    "blood_show_type": 1, 
+    "body_size": 1.0, 
+    "build_res_cost_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "buy_res_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "can_flee": false, 
+    "cancel_alarm_range": 10.0, 
+    "cd_reduce": 0.0, 
+    "cd_reduce_grow": 0.0, 
+    "collision_box_turning_enable": false, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "common_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "common_atk": {
+        "__tuple__": true, 
+        "items": [
+            201347498, 
+            1
+        ]
+    }, 
+    "common_atk_type": 999, 
+    "critical_chance": 0.0, 
+    "critical_chance_grow": 0.0, 
+    "critical_dmg": 0.0, 
+    "critical_dmg_grow": 0.0, 
+    "custom_1": 0.0, 
+    "custom_1_grow": 0.0, 
+    "custom_2": 0.0, 
+    "custom_2_grow": 0.0, 
+    "default_behaviour_type": "defense", 
+    "defense_mag": 0.0, 
+    "defense_mag_grow": 0.0, 
+    "defense_phy": 0.0, 
+    "defense_phy_grow": 0.0, 
+    "description": 225497512, 
+    "destroy_after_die": true, 
+    "die_anim": "die", 
+    "disk_shadow_size": 1.0, 
+    "dmg_reduction": 0.0, 
+    "dmg_reduction_grow": 0.0, 
+    "dodge_rate": 0.0, 
+    "dodge_rate_grow": 0.0, 
+    "drop_items_tuple": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "dynamic_collision_r": 0.5, 
+    "enemy_mini_map_icon": 100000, 
+    "extra_dmg": 0.0, 
+    "extra_dmg_grow": 0.0, 
+    "force_show_on_mini_map": false, 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0.0, 
+    "fresnel_exp": 1.0, 
+    "has_mp": false, 
+    "heal_effect": 0.0, 
+    "heal_effect_grow": 0.0, 
+    "healing_effect": 0.0, 
+    "healing_effect_grow": 0.0, 
+    "height_offset": 0, 
+    "hero_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_rate": 0.0, 
+    "hit_rate_grow": 0.0, 
+    "hp_max": 2.0, 
+    "hp_max_grow": 0.0, 
+    "hp_rec": 0.0, 
+    "hp_rec_grow": 1, 
+    "icon": 106860, 
+    "idle_anim": "idle1", 
+    "init_stock": 5, 
+    "intelligence": 0.0, 
+    "intelligence_grow": 0.0, 
+    "is_apply_role_color": false, 
+    "is_mini_map_show": false, 
+    "is_open_Xray": false, 
+    "is_open_disk_shadow": false, 
+    "is_open_outline_pass": false, 
+    "is_shop": false, 
+    "is_x_offset": false, 
+    "is_z_offset": false, 
+    "keep_dead_body_time": 0.0, 
+    "keep_target": true, 
+    "key": 134237985, 
+    "kv": {
+        "\u8bf7\u8f93\u5165key": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u8bf7\u8f93\u5165key", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 0, 
+            "value": ""
+        }
+    }, 
+    "level": 1, 
+    "main_attr": "strength", 
+    "max_stock": 5, 
+    "mini_map_icon": 100824, 
+    "mini_map_icon_scale": 1.0, 
+    "model": 103014, 
+    "model_height": 0.5, 
+    "model_opacity": 1.0, 
+    "move_channel": 0, 
+    "move_limitation": 1, 
+    "move_type": 40, 
+    "mp_color": "Blue", 
+    "mp_key": "MP", 
+    "mp_max": 600.0, 
+    "mp_max_grow": 0.0, 
+    "mp_rec": 10, 
+    "mp_rec_grow": 2, 
+    "name": 1402535985, 
+    "need_preview_billboard": true, 
+    "ori_bits": 64, 
+    "ori_speed": 0.0, 
+    "ori_speed_grow": 0.0, 
+    "passive_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "pene_mag": 0.0, 
+    "pene_mag_grow": 0.0, 
+    "pene_mag_ratio": 0.0, 
+    "pene_mag_ratio_grow": 0.0, 
+    "pene_phy": 0.0, 
+    "pene_phy_grow": 0.0, 
+    "pene_phy_ratio": 0.0, 
+    "pene_phy_ratio_grow": 0.0, 
+    "pkg_slot_size": 0, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "preview_billboard_health_value": 2.0, 
+    "refresh_interval": 1.0, 
+    "research_techs": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "reward_PxUIAG6GEe6oipiP4GH3wD": 0.0, 
+    "reward_custom_res_1": 0.0, 
+    "reward_custom_res_2": 0.0, 
+    "reward_custom_res_3": 0.0, 
+    "reward_custom_res_4": 0.0, 
+    "reward_custom_res_5": 0.0, 
+    "reward_custom_res_6": 0, 
+    "reward_eKmvwDDjEe6fHzDQQuc0bu": 0.0, 
+    "reward_exp": 0, 
+    "reward_official_res_1": 0.0, 
+    "role_color_scale": 1, 
+    "rotate_speed": 0.0, 
+    "sell_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sell_res_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "separate_enemy_icon": false, 
+    "shop_camp_args": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "shop_range": 600, 
+    "shop_sell_type": 0, 
+    "show_y3_extra_info": false, 
+    "simple_common_atk": {
+        "ability_animations": {
+            "__tuple__": true, 
+            "items": [
+                "attack1"
+            ]
+        }, 
+        "ability_bw_point": 0.5, 
+        "ability_cast_point": 0.2, 
+        "attack_trajectory": {
+            "effect": 0, 
+            "follow_scale": true, 
+            "scale": 1.0, 
+            "socket": "origin"
+        }, 
+        "cast_effect_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "cast_sound": 0, 
+        "critical_anim": null, 
+        "damage": {
+            "__tuple__": true, 
+            "items": [
+                "lambda unit: Fix32(unit.ability_source.api_get_float_attr('attack_phy'))", 
+                [
+                    [
+                        "ability_source", 
+                        "ATTR_RESULT", 
+                        "attack_phy"
+                    ]
+                ], 
+                "lambda unit: Fix32(unit.ability_source.api_get_float_attr('attack_phy'))", 
+                {
+                    "unit.ability_source.ATTR_RESULT.attack_phy": {
+                        "is_cm": false
+                    }
+                }, 
+                [
+                    [
+                        "unit", 
+                        "ability_source", 
+                        "ATTR_RESULT", 
+                        "attack_phy"
+                    ]
+                ]
+            ]
+        }, 
+        "damage_type": 0, 
+        "filter_condition_camp": 1, 
+        "filter_condition_type": 7, 
+        "hit_effect": {
+            "effect": 0, 
+            "follow_scale": true, 
+            "scale": 1.0, 
+            "socket": "origin"
+        }, 
+        "hit_sound": 0, 
+        "order_play_anim": false, 
+        "order_play_reset_time": 0.5, 
+        "trajectory_radian": 1.0, 
+        "trajectory_speed": 1000.0
+    }, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "special_idle_anim": "idle2", 
+    "speed_ratio_in_turn": 0.6, 
+    "standard_walk_rate": 36.0, 
+    "start_rft": 1.0, 
+    "strength": 0.0, 
+    "strength_grow": 0.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "type": 4, 
+    "uid": "134237985", 
+    "use_base_tint_color": false, 
+    "use_fresnel": false, 
+    "use_simple_mini_map_icon": true, 
+    "vampire_mag": 0.0, 
+    "vampire_mag_grow": 0.0, 
+    "vampire_phy": 0.0, 
+    "vampire_phy_grow": 0.0, 
+    "view_type": 0, 
+    "vision_night": 8.0, 
+    "vision_night_grow": 0, 
+    "vision_rng": 8.0, 
+    "vision_rng_grow": 0, 
+    "vision_sector_angle_day": 0, 
+    "vision_sector_angle_day_grow": 0, 
+    "vision_sector_angle_night": 0, 
+    "vision_sector_angle_night_grow": 0, 
+    "vision_sector_night": 0, 
+    "vision_sector_night_grow": 0, 
+    "vision_sector_rng": 0, 
+    "vision_sector_rng_grow": 0, 
+    "vision_true": 0.0, 
+    "vision_true_grow": 0, 
+    "walk_anim": "walk", 
+    "width_offset": 0
+}

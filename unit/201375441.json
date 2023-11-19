@@ -1,0 +1,62 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "509431809": {
+            "action": [
+                {
+                    "action_type": "SET_UNIT_LIFE_CYCLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "CUR_UNIT"
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                180.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 5094318090006, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 5094318090002, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 201375441, 
+            "p_trigger_id": null, 
+            "trigger_id": 509431809, 
+            "trigger_name": "UnitCreated", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    509431809, 
+                    "UnitCreated"
+                ]
+            ], 
+            "key": 201375441, 
+            "name": "201375441"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

@@ -1,0 +1,165 @@
+{
+    "local_variable": {
+        "968212481": {
+            "variable_dict": {
+                "RECTANGLE": {
+                    "\u5854\u5730\u7816\u533a\u57df": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5854\u5730\u7816\u533a\u57df": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "968212481": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "RECTANGLE", 
+                                    "\u5854\u5730\u7816\u533a\u57df", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "CUR_UNIT"
+                                        }
+                                    ], 
+                                    "sub_type": "UNIT_ENTITY_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        100
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        100.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "CREATE_REC_AREA"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 968212481000019, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ADD_AREA_TAG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                [
+                                    "RECTANGLE", 
+                                    "\u5854\u5730\u7816\u533a\u57df", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 7
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u5854\u533a\u57df"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 968212481000032, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                [
+                                    "TABLE", 
+                                    "\u5854\u5e95\u7816\u8868"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                [
+                                    "RECTANGLE", 
+                                    "\u5854\u5730\u7816\u533a\u57df", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 7
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 968212481000026, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 968212481000003, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134236368, 
+            "p_trigger_id": null, 
+            "trigger_id": 968212481, 
+            "trigger_name": "\u533a\u57df\u5efa\u7acb", 
+            "valid": false
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    968212481, 
+                    "\u533a\u57df\u5efa\u7acb"
+                ]
+            ], 
+            "key": 134236368, 
+            "name": "134236368"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}
